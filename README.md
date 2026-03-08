@@ -192,9 +192,3 @@ This approach is known as **Retrieval-Augmented Generation (RAG)**.
 **Minhaj Banu**
 
 AI / Machine Learning Enthusiast
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
